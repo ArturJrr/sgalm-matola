@@ -48,7 +48,7 @@ Copiar código
 1. Criar uma conta gratuita em um serviço de hospedagem (ex: [InfinityFree](https://infinityfree.net)).
 2. Fazer upload de todos os arquivos do projeto via **FTP**.
 3. Criar o banco de dados remoto e configurar `config/db.php` com as credenciais fornecidas pelo provedor.
-4. Acessar o sistema pelo domínio fornecido  `sgalmmatola.wuaze.com`.
+4. Acessar o sistema pelo domínio fornecido  `(https://sgalmmatola.wuaze.com/public/index1.php#login)`.
 
 ---
 
