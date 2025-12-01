@@ -39,7 +39,7 @@ Copiar código
 4. Importar o arquivo `sql/init.sql`.
 5. Configurar o arquivo `config/db.php` com as credenciais do banco local.
 6. Acessar o sistema pelo navegador em:  
-   `http://localhost/sgalm-matola/public/index.php`
+   `http://localhost/sgalm-matola/public/index1.php`
 
 ---
 
@@ -48,7 +48,7 @@ Copiar código
 1. Criar uma conta gratuita em um serviço de hospedagem (ex: [InfinityFree](https://infinityfree.net)).
 2. Fazer upload de todos os arquivos do projeto via **FTP**.
 3. Criar o banco de dados remoto e configurar `config/db.php` com as credenciais fornecidas pelo provedor.
-4. Acessar o sistema pelo domínio fornecido (ex: `sgalmmatola.wuaze.com`).
+4. Acessar o sistema pelo domínio fornecido  `sgalmmatola.wuaze.com`.
 
 ---
 
