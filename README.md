@@ -52,7 +52,7 @@ Copiar código
 
 ---
 
-## Contato Técnico
+## Contato
 
 - Desenvolvedor: **Artur Júnior**
 - Email: artur75chirrime@gmail.com
